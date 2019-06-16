@@ -5,6 +5,7 @@
 ### Repos
 
 - https://repl.it/@haodt1990/nature-look
+- https://repl.it/@haodt1990/nature-look-static
 
 ### Guidelines
 
